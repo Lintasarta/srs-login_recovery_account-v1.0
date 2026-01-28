@@ -1,1 +1,3 @@
+# Description
 
+This document describes a new feature enhancement for the existing Cloudeka Service Portal: **"Login Recovery and Foreign Login Attempt Protection."** This feature aims to enhance user account security by providing a proactive mechanism to detect and alert users about suspicious login attempts from unrecognized devices. Upon successful login from a new device, the system will notify the user via email, providing details of the login. The email will also include a direct-action link for the user to confirm or deny the legitimacy of the login, offering options to secure their account if the login was unauthorized. This feature is designed to empower users with greater control over their account security and protect against unauthorized access.
