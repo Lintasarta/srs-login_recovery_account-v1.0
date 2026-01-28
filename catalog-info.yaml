@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: srs-login-recovery-account
+  description: SRS Login Recovery Account
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: Lintasarta/srs-login_recovery_account-v1.0
+    # PERHATIKAN INDENTASI: Baris di bawah if harus sejajar dengan github.com...
+spec:
+  type: service
+  lifecycle: production
+  owner: user:default/afi
