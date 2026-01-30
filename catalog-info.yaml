@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: srs-login-recovery-account
   description: SRS Login Recovery Account
+  tags: ["srs"]
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: Lintasarta/srs-login_recovery_account-v1.0
